@@ -60,7 +60,7 @@ section{
     line-height: 1.5;
 }
 
-form{ /* Essa é a questão 6 */
+form{ 
     border: 1px solid gray
 }
 
@@ -68,6 +68,11 @@ form{ /* Essa é a questão 6 */
     background-color: #ccc;
     padding: 20px; 
 
+}
+
+#click{ 
+    background-color: blue;
+    color:#fff
 }
 
 p{ 
