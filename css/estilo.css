@@ -60,6 +60,10 @@ section{
     line-height: 1.5;
 }
 
+form{ /* Essa é a questão 6 */
+    border: 1px solid gray
+}
+
 #container{ 
     background-color: #ccc;
     padding: 20px; 
