@@ -67,6 +67,14 @@
     background-position: center;
 }
 
+.menu ul li{ 
+    display: inline;
+    margin-right: 10px;
+    background-color: #ccc;
+    font-weight: bold; 
+
+}
+
 .heading{ 
     font-family: serif; 
 }
