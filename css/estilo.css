@@ -56,6 +56,12 @@
     margin: 0 auto;
 } */ 
 
+#container{ 
+    background-color: #ccc;
+    padding: 20px; 
+
+}
+
 .cabecalho{
     background-color: #3265f3; 
     color: #fff;
