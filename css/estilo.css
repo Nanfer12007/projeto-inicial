@@ -101,3 +101,7 @@ p{
 .heading{ 
     font-family: serif; 
 }
+
+footer{ /* Essa é a questão 9. Lembre-se de dar commit separadamente */ 
+    border-top: 2px solid red;
+}
