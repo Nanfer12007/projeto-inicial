@@ -70,6 +70,10 @@ form{ /* Essa é a questão 6 */
 
 }
 
+p{ 
+    color: green;
+}
+
 .cabecalho{
     background-color: #3265f3; 
     color: #fff;
